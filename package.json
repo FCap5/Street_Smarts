@@ -28,7 +28,7 @@
     "bootstrap": "^4.4.1",
     "dotenv": "^8.2.0",
     "emailjs-com": "^2.6.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.0",
     "mdbreact": "^4.27.0",
     "moment": "^2.27.0",
